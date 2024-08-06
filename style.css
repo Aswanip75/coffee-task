@@ -1,0 +1,172 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Wallpoet&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background-image:url(./160NbM.jpg);
+    font-family: "Josefin Slab", serif;
+}
+header h1{
+    font-family: "Wallpoet", sans-serif;
+  font-weight: bolder;
+  font-size:xx-large;
+  text-align: center;
+  background-color: #BE7656;
+
+}
+header p{
+    background-color: #BE7656;
+    text-align: center;
+    padding: 5px;
+}
+section p{
+    padding: 10px;
+    text-align: center;
+    font-size: xx-large;
+
+   
+    font-family: "Rajdhani", sans-serif;
+
+  
+  color: #5e230a;
+}
+section p b{
+    font-weight:550 ;
+    font-family: "Rajdhani", sans-serif;
+    color: #3a1708;
+}
+
+ .container  {
+    width: 500px;
+    height: 200px;
+    border: 2px solid #2c1409;
+
+    margin-left: 450px;
+    
+}
+ .container p{
+    font-size:large;
+    text-align: justify;
+    padding-top: 30px;
+}
+.types h1{
+    font-family: "Playwrite AR", cursive;
+    color: #3a1708;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    padding: 20px;
+}
+.types ul{
+    font-size: larger;
+    
+    
+    
+}
+li{
+    padding: 10px;
+
+}
+
+.brand-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.col{
+ padding: 20px;   
+    
+}
+.col-2{
+    height: 200px;
+    width: 250px;
+    text-align: justify;
+}
+ .top h1{
+    font-family: "Playwrite AR", cursive;
+    color: #3a1708;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    padding: 20px;
+ }
+ .brand-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .col-3{
+    height: 200px;
+    width: 250px;
+    text-align: justify;
+ }
+ 
+.gallery-1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #BE7656;
+    padding: 10px;
+}
+.gallery-2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #BE7656;
+    padding: 10px;
+}
+.gallery-3{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #BE7656;
+    padding: 10px;
+}
+.form{
+    width: 500px;
+    height: 200px;
+    background-color: #f7ac8c;
+
+    margin-left: 450px;
+    /* padding-left: 80px; */
+    padding-top: 50px;
+    border: 4px solid #3a1708;
+    padding-left: 100px;
+
+}
+button{
+    margin-left: 120px;
+    background-color: #5e230a;
+    color: white;
+}
+.footer{
+    display: flex;
+    padding-top: 20px;
+    background-color: #BE7656;
+    justify-content: space-evenly;
+    color: #481b08;
+}
+.coffee h1, h1{
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: "Rajdhani", sans-serif;
+
+    
+}
+.coffee p{
+    font-family: "Rajdhani", sans-serif;
+    padding-top: 40px;  
+    font-size: xx-large;
+}
+.coffee p .address{
+    font-family: "Rajdhani", sans-serif;
+    padding-top: 10px;
+    font-size: small;
+}
+ 
+ 
